@@ -50,7 +50,7 @@ export default ({
       <div className={styles['game-title']}>
         <div className={styles.minecraft}>
           <div className={styles.edition} />
-          <span className={styles.splash}>Prismarine is a beautiful block</span>
+          <span className={styles.splash}>Available with Microsoft Flavours</span>
         </div>
       </div>
 
@@ -63,7 +63,7 @@ export default ({
           onClick={connectToServerAction}
           data-test-id='servers-screen-button'
         >
-          Connect to server
+          Multiplayer
         </ButtonWithTooltip>
         <div style={{ display: 'flex', justifyContent: 'space-between' }}>
           <ButtonWithTooltip
