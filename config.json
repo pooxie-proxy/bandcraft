@@ -20,6 +20,11 @@
       "ip": "sus.shhnowisnottheti.me",
       "version": "1.18.2",
       "description": "Creative, your own 'boxes' (islands)"
+    },
+    {
+      "ip": "minekeep.net",
+      "version": "1.21.1",
+      "description": "Free Server Hosting"
     }
   ]
 }
