@@ -67,7 +67,7 @@ export const contro = new ControMax({
     //   showLookingBlockUsages: ['Numpad4']
     // }
   } satisfies Record<string, Record<string, SchemaCommandInput>>,
-  movementKeymap: 'arrows',
+  movementKeymap: 'WASD',
   movementVector: '2d',
   groupedCommands: {
     general: {
